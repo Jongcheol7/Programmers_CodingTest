@@ -1,3 +1,5 @@
+<pre>
+<code>
 public class Quiz1_Lotto {
 	
 	public static void main(String[] args) {
@@ -95,3 +97,5 @@ class Solution {
 		return count;
 	}
 }
+</code>
+</pre>
