@@ -1,8 +1,7 @@
 # 크레이 인형뽑기 게임
 ## https://programmers.co.kr/learn/courses/30/lessons/64061
 
-<pre>
-<code>
+```
 	import java.util.ArrayList;
 
 	public class Quiz5_ClawMachine {
@@ -17,10 +16,6 @@
 			sol.solution(board, moves);
 		}
 	}
-</code>
-</pre>
-<pre>
-<code>
 	class Solution5 {
 	    public int solution(int[][] board, int[] moves) {
 		// 뽑은 인형을 저장하는 곳
@@ -52,5 +47,4 @@
 		return answer;
 	    }
 	}
-</code>
-</pre>
+```
