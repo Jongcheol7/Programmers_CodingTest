@@ -1,9 +1,7 @@
 # 신규 아이디 추천
 ## https://programmers.co.kr/learn/courses/30/lessons/72410
 
-<pre>
-<code>
-
+```
 public class Quiz2_RecomendationNewID {
 
 	public static void main(String[] args) {
@@ -52,6 +50,4 @@ class Solution2 {
 		return answer;
 	}
 }
-
-</pre>
-</code>
+```
