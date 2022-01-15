@@ -2,7 +2,7 @@
 ## https://programmers.co.kr/learn/courses/30/lessons/81301
 
 ```
-  public class Quiz3_ConvertNumberWords {
+  public class Quiz03_ConvertNumberWords {
 
 	public static void main(String[] args) {
 		Solution3 sol = new Solution3();
