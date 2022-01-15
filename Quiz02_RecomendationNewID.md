@@ -2,7 +2,7 @@
 ## https://programmers.co.kr/learn/courses/30/lessons/72410
 
 ```
-public class Quiz2_RecomendationNewID {
+public class Quiz02_RecomendationNewID {
 
 	public static void main(String[] args) {
 		Solution2 sol = new Solution2();
