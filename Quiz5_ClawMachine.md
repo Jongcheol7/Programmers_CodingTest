@@ -17,6 +17,10 @@
 			sol.solution(board, moves);
 		}
 	}
+</code>
+</pre>
+<pre>
+<code>
 	class Solution5 {
 	    public int solution(int[][] board, int[] moves) {
 		// 뽑은 인형을 저장하는 곳
