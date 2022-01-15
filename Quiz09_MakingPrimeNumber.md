@@ -1,7 +1,7 @@
 # 소수 만들기
 ## https://programmers.co.kr/learn/courses/30/lessons/12977
 ```
-public class Quiz9_MakingPrimeNumber {
+public class Quiz09_MakingPrimeNumber {
 
 	public static void main(String[] args) {
 		Solution9 sol = new Solution9();
