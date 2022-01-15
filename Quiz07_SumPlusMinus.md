@@ -3,7 +3,7 @@
 ```
 import java.util.Arrays;
 
-public class Quiz7_SumPlusMinus {
+public class Quiz07_SumPlusMinus {
 
 	public static void main(String[] args) {
 		Solution7 sol = new Solution7();
