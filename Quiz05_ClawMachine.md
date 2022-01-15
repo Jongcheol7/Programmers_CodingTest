@@ -4,7 +4,7 @@
 ```
 	import java.util.ArrayList;
 
-	public class Quiz5_ClawMachine {
+	public class Quiz05_ClawMachine {
 
 		public static void main(String[] args) {
 
