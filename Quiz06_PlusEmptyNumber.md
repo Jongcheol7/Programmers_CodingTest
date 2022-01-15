@@ -3,7 +3,7 @@
 ```
 import java.util.Arrays;
 
-public class Quiz6_PlusEmptyNumber {
+public class Quiz06_PlusEmptyNumber {
 
 	public static void main(String[] args) {
 		Solution6 sol = new Solution6();
