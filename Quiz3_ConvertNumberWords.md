@@ -1,9 +1,7 @@
 # 숫자 문자열과 영단어
 ## https://programmers.co.kr/learn/courses/30/lessons/81301
 
-<pre>
-<code>
-
+```
   public class Quiz3_ConvertNumberWords {
 
 	public static void main(String[] args) {
@@ -23,6 +21,4 @@ class Solution3 {
         return Integer.parseInt(s);
     }
 }
-
-</pre>
-</code>
+```
