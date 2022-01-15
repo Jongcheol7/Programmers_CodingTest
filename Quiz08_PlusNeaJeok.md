@@ -1,7 +1,7 @@
 # 내적 더하기
 ## https://programmers.co.kr/learn/courses/30/lessons/70128
 ```
-public class Quiz8_PlusNeaJeok {
+public class Quiz08_PlusNeaJeok {
 
 	public static void main(String[] args) {
 		Solution8 sol = new Solution8();
