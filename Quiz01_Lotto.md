@@ -3,7 +3,7 @@
 
 <pre>
 <code>
-public class Quiz1_Lotto {
+public class Quiz01_Lotto {
 	
 	public static void main(String[] args) {
 		
