@@ -1,8 +1,7 @@
 # 로또의 최고순위와 최저순위
 ## https://programmers.co.kr/learn/courses/30/lessons/77484
 
-<pre>
-<code>
+```
 public class Quiz01_Lotto {
 	
 	public static void main(String[] args) {
@@ -100,5 +99,20 @@ class Solution {
 		return count;
 	}
 }
-</code>
-</pre>
+
+// 코드 수정
+/*
+이중 포문으로 한번에 0의 갯수와 맞힌갯수를 알아낸다
+for(int a : lottos){
+	if(a == 0) cnt0++;
+	else{
+		for(int b : wins){
+			if(a == b) cnt++;
+		}
+	}
+}
+answer[0] = rank(cnt0 + cnt);
+answer[1] = rank(cnt);
+rank라는 함수를 만들어서 스위치케이스로 등수를 리턴해주는 것을 만든다.
+*/
+```
